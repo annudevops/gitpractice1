@@ -1,4 +1,10 @@
 this is task file
 g6
-g6 folder is merge
-and learning merge
+def add values (a, b)
+pass a+b
+def sub values (a , b)
+pass a-b
+def mul values (a, b)
+pass a*b
+def div values (a, b)
+pass a/b
